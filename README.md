@@ -3,11 +3,11 @@
 A responsive personal portfolio website showcasing my projects, technical skills, and contact information.
 Built using HTML, CSS, and JavaScript, this site features:
 
-A dark mode toggle
+- A dark mode toggle
 
-A mobile-friendly layout
+- A mobile-friendly layout
 
-Scroll-based navigation highlights
+- Scroll-based navigation highlights
 
 This portfolio is part of my Full Stack Engineer learning journey, demonstrating my frontend development skills and version control practices using Git and GitHub.
 
