@@ -43,7 +43,7 @@ This project serves as:
 
 ✅ Fully version-controlled with Git
 
-🛠️ Technologies Used
+🛠️ Technologies Used: 
 
 1) HTML5
 2) CSS3 – Flexbox, media queries
